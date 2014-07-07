@@ -1,0 +1,12 @@
+{
+  "name": "clean-dust",
+  "version": "1.0.0",
+  "description": "Factory for dustjs-linkedin with dustjs-helpers",
+  "main": "lib/main.js",
+  "author": "Marek Hrabe <marekhrabe@abdoc.net> (https://github.com/marekhrabe)",
+  "license": "MIT",
+  "dependencies": {
+    "dustjs-helpers": "^1.2.0",
+    "dustjs-linkedin": "^2.4.0"
+  }
+}
